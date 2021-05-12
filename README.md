@@ -1,4 +1,4 @@
-# Presentations
+# Side Projects / Presentations
 
 RecoverVision: Side project
  - Rather radical and miscellaneous project that stemmed from my childhood hatred for wearing glasses
